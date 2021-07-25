@@ -12,12 +12,12 @@ This project is aimed to display the following metrecies:
 > The school board has notified Maria and her supervisor that the students_complete.csv file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked you to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once you’ve replaced the math and reading scores, Maria would like you to repeat the school district analysis that you did in this module and write up a report to describe how these changes affected the overall analysis.
 
 ## Results
-The district summary is affected, setting Thomas High School (THS) grades for 9th grade students are set to NaN will affect the columns math, reading, and overall passing percentages in the future summarzation.
+The school summary is affected, setting Thomas High School (THS) grades for 9th grade students are set to NaN will affect the columns math, reading, and overall passing percentages in the future summarzation.
 <br>
 ![image of change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/9th_grade_NaN.png)
 <br>
 
-The school summary is affected in columns math, reading, and overall in the percentage pasing. (The change is small considering its population, one school's change will affect the whole in decimals)
+The district summary is affected in columns math, reading, and overall in the percentage pasing. (The change is small considering its population, one school's change will affect the whole in decimals)
 <br>
 ###### Before
 ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/District_Summary(Before).png)
