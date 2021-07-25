@@ -31,8 +31,7 @@ Comparing the picture above, the percentages in math, reading and overall all re
 
 Replacing 9tth grade will reduce the results in the following criteria:
 - reduce in student counts (since all 9th grades are removed)
-  - from 1635 to 1174
-  - ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/THS_Count.png)
+  - from 1635 to 1174 ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/THS_Count.png)
 - raise in per student spending (population remove afect budget/population where population decreased but budget remains the same)
 - pull down the average score by school size (drop in math, reading and overall percentage)
 - score by school type
