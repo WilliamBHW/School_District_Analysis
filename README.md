@@ -52,7 +52,7 @@ Replacing 9th grade will reduce the results in the following criteria:
 
 - raise in per student spending
   - population remove affect `budget/population where population decreased but budget remains the same`
-  - originally at range $630-644, removing 9th greade population will increase the amount to $645-675 range![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_spending.png)
+  - originally at range $630-644, removing 9th greade population will increase the amount to $645-675 range ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_spending.png)
 
 - pull down the average score by school size
   - drop in all passing percentages
@@ -61,10 +61,8 @@ Replacing 9th grade will reduce the results in the following criteria:
 - score by school type
   - Thomas High School is in the "CHARTER" type
   - removing THS 9th grade scores reduces all passing percentages
-  - ##### Before
-  ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(before).png)
-  - ##### After
-  ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(after).png)
+  - ##### Before ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(before).png)
+  - ##### After ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(after).png)
 <br>
 
 ## Summary
