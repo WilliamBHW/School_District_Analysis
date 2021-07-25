@@ -19,11 +19,18 @@ The district summary is affected, setting Thomas High School (THS) grades for 9t
 
 The school summary is affected in columns math, reading, and overall in the percentage pasing.
 <br>
-![image of change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/NaN_Affect.png)
+###### Before
+![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/District_Summary(Before).png)
+<br>
+###### After
+![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/District_Summary(After).png)
 <br>
 
 Thomas High Schools performance is significantly dropped in overall passing rate in both reading and math, which will allow other high schools percentage replacing the original position (likely to move upward). Thomas High School's overall pass rate position will significantly drop (originally at 2nd place).
 <br>
+###### Post Replacement
+![image of change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/NaN_Affect.png)
+###### Pre Replacement
 ![image_before_change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/THS_placing_before_change.png)
 <br>
 Comparing the picture above, the percentages in math, reading and overall all reduced to below 70% (originally above 90%). This may change the standing or the reviews of the school from "Good" to "Not So Good". Images below are modifications that consider 10-12th students grade at THS which remained their position at 2nd place. The position will drastically change from Top 5 to Bottom 5 if 9th grade students are considered.
