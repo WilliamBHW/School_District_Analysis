@@ -17,7 +17,7 @@ The district summary is affected, setting Thomas High School (THS) grades for 9t
 ![image of change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/9th_grade_NaN.png)
 <br>
 
-The school summary is affected in columns math, reading, and overall in the percentage pasing.
+The school summary is affected in columns math, reading, and overall in the percentage pasing. (The change is small considering its population, one school's change will affect the whole in decimals)
 <br>
 ###### Before
 ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/District_Summary(Before).png)
