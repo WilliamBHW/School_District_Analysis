@@ -16,9 +16,6 @@ The district summary is affected, setting Thomas High School (THS) grades for 9t
 <br>
 ![image of change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/9th_grade_NaN.png)
 <br>
-###### Modified THS Data
-![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/Modified_THS.png)
-<br>
 
 The school summary is affected in columns math, reading, and overall in the percentage pasing. (The change is small considering its population, one school's change will affect the whole in decimals)
 <br>
@@ -43,6 +40,10 @@ Comparing the picture above, the percentages in math, reading and overall all re
 <br>
 #### Bottom 5 Schools Based on Overall Passing Percentage
 ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/Bottom5.png)
+<br>
+
+###### Modified THS Data
+![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/Modified_THS.png)
 <br>
 
 Replacing 9tth grade will reduce the results in the following criteria:
