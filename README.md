@@ -55,7 +55,7 @@ Replacing 9tth grade will reduce the results in the following criteria:
   - originally at range $630-644, removing 9th greade population will increase the amount to $645-675 range![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_spending.png)
 
 - pull down the average score by school size
-  - drop in math, reading and overall percentage 
+  - drop in all passing percentages
   - percentages will decrease if no fix are applied 
   - THS population remains in the same range (Medium) since its from 1635 to 1174 ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_size.png)
 - score by school type
