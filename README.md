@@ -26,7 +26,7 @@ Thomas High Schools performance is significantly dropped in overall passing rate
 <br>
 ![image_before_change](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/THS_placing_before_change.png)
 <br>
-Comparing the picture above, the percentages in math, reading and overall all reduced which will lose its original position.
+Comparing the picture above, the percentages in math, reading and overall all reduced to below 70% (originally above 90%). This may change the standing or the reviews of the school from "Good" to "Not So Good".
 <br>
 
 Replacing 9tth grade will reduce the results in the following criteria:
