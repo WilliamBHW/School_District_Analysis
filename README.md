@@ -13,14 +13,17 @@ This project is aimed to display the following metrecies:
 
 ## Results
 The district summary is affected, setting Thomas High School math grade for 9th grade students are set to NaN will affect the columns math, reading, and overall.
+<br>
 ![image of change]()
 <br>
 
 The school summary is affected in columns math, reading, and overall in the percentage pasing.
+<br>
 ![image of change]()
 <br>
 
 Thomas High Schools performance is significantly dropped in overall passing rate in both reading and math, which will allow other high schools percentage replacing the original position (likely to move upward). Thomas High School's overall pass rate position will significantly drop (originally at 2nd place).
+<br>
 ![image_before_change]()
 ![image_after_change]()
 <br>
