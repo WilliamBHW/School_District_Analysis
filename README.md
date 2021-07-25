@@ -61,8 +61,10 @@ Replacing 9th grade will reduce the results in the following criteria:
 - score by school type
   - Thomas High School is in the "CHARTER" type
   - removing THS 9th grade scores reduces all passing percentages
-  - ##### Before ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(before).png)
-  - ##### After ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(after).png)
+  - ##### Before
+    ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(before).png)
+  - ##### After
+    ![](https://github.com/WilliamBHW/School_District_Analysis/blob/main/Resources/by_type(after).png)
 <br>
 
 ## Summary
