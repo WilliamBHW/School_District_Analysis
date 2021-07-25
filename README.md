@@ -68,4 +68,4 @@ Replacing 9tth grade will reduce the results in the following criteria:
 <br>
 
 ## Summary
-Overall, Changing THS's 9th grade to NaN will drastically affect the school's passing rate in math, reading and both. THS's placement will be dropped and per student capita will increase as the 9th graders are not considered. Population wise, changes in THS will not have significant affect in the district since the population is large which consist of 15 schools.
+Overall, Changing THS's 9th grade to NaN will drastically affect the school's passing rate in math, reading and both. THS's placement will be dropped and per student capita will increase as the 9th graders are not considered. Population wise, changes in THS will not have significant affect in the district since the population is large which consist of 15 schools. Other schools placement may increase due to ther THS change.
